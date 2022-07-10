@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="dark_theme">Dark Theme</string>
+
+</resources>
